@@ -1,10 +1,10 @@
 package nuigalway.app;
 
-myvar = "Hello World"
+private String my_var = "Hello World"
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println(myvar);
+        System.out.println(my_var);
     }
 }
